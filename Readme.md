@@ -1,6 +1,7 @@
 How to run telemate on local pc
 
-0. clone the site to your local pc using "git clone [REPO URL]"
+0. clone the site to your local pc using "git clone 
+https://github.com/dueeraj8955/Telemate"
 
 1. Install python if not installed on your pc and install django module using terminal command 
     "pip install django"
